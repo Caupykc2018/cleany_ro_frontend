@@ -1,0 +1,12 @@
+{
+  "en": {
+    "title": "You are not authorized",
+    "login": "Login",
+    "register": "Registration"
+  },
+  "ua": {
+    "title": "Ви не авторизовані",
+    "login": "Вхід",
+    "register": "Реєстрація"
+  }
+}

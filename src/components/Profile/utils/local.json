@@ -1,0 +1,24 @@
+{
+  "en": {
+    "profile": "Profile",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "logout": "Log out",
+    "seller": "Seller",
+    "client": "Client",
+    "company": "Company",
+    "admin": "Admin"
+  },
+  "ua": {
+    "profile": "Профіль",
+    "name": "Ім'я",
+    "email": "Ел. пошта",
+    "role": "Роль",
+    "logout": "Вийти",
+    "seller": "Продавець",
+    "client": "Клієнт",
+    "company": "Компанія",
+    "admin": "Адмін"
+  }
+}

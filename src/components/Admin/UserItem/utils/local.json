@@ -1,0 +1,22 @@
+{
+  "en": {
+    "name": "Name",
+    "email": "Email",
+    "id": "Id",
+    "role": "Role",
+    "seller": "seller",
+    "client": "client",
+    "company": "company",
+    "admin": "admin"
+  },
+  "ua": {
+    "name": "Ім'я",
+    "email": "Ел. пошта",
+    "id": "Код",
+    "role": "Роль",
+    "seller": "продавець",
+    "client": "клієнт",
+    "company": "компанія",
+    "admin": "адмін"
+  }
+}

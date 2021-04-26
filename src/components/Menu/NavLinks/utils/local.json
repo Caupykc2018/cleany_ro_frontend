@@ -1,0 +1,14 @@
+{
+  "en": {
+    "profile": "Profile",
+    "about": "About",
+    "admin": "Admin",
+    "stocks": "Stocks"
+  },
+  "ua": {
+    "profile": "Профіль",
+    "about": "Про нас",
+    "admin": "Адмін",
+    "stocks": "Сховища"
+  }
+}

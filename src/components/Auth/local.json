@@ -1,0 +1,10 @@
+{
+  "en": {
+    "login": "Login",
+    "register": "Registration"
+  },
+  "ua": {
+    "login": "Вхід",
+    "register": "Реєстрація"
+  }
+}

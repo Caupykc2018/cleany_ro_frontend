@@ -1,0 +1,16 @@
+{
+  "en": {
+    "email": "Email",
+    "password": "Password",
+    "validEmail": "Email is required",
+    "validPassword": "Password is required",
+    "submit": "Submit"
+  },
+  "ua": {
+    "email": "Ел. пошта",
+    "password": "Пароль",
+    "validEmail": "Ел. пошта обов'язкова",
+    "validPassword": "Пароль обов'язковий",
+    "submit": "Відправити"
+  }
+}
